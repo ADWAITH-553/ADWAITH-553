@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.pinimg.com/originals/25/c3/b7/25c3b7e056ec7bd21dbd69fd93879aa7.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adwaith-553&label=Profile%20views&color=0e75b6&style=flat" alt="adwaith-553" /> </p>
 
-- 🌱 I’m currently learning **BACKEND DEVELOPMENT**
+- 🌱 I’m currently learning **FULL-STACK WEB DEVELOPMENT**
 
 - 💬 Ask me about **MERN STACK**
 
