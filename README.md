@@ -1,6 +1,6 @@
 <h1 align="center">HEY THERE I'M ADWAITH SHINOD 👋</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
-<p align="center"><img src="https://i.pinimg.com/originals/25/c3/b7/25c3b7e056ec7bd21dbd69fd93879aa7.gif"/>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17%3Fsearch%3D1&psig=AOvVaw0fv2JWQdFVSkgyO8EuX0qL&ust=1709569419304000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCdlMbA2IQDFQAAAAAdAAAAABAI"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adwaith-553&label=Profile%20views&color=0e75b6&style=flat" alt="adwaith-553" /> </p>
 
 - 🌱 I’m currently learning **FULL-STACK WEB DEVELOPMENT**
