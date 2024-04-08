@@ -18,7 +18,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,postman,express,mongodb,java,mysql" /><br>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,postman,express,mongodb,java,mysql,c,cpp" /><br>
 </div>
 <br/>
 
