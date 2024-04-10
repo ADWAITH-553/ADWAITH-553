@@ -23,10 +23,8 @@
 </div>
 <br/>
 
-<div align="center>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaith-553&layout=compact&theme=merko)
 &emsp;
 &emsp;
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ADWAITH-553&theme=github_dark)
-<div/>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/adwaithshinod553?theme=dark)
