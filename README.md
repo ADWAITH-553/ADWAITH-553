@@ -26,5 +26,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaith-553&layout=compact&theme=merko)
 &emsp;
 &emsp;
-![GitHub Streak](https://streak-stats.demolab.com/?user=ADWAITH-553&theme=github_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ADWAITH-553&theme=dark&hide_border=true&border_radius=7.1)](https://git.io/streak-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/adwaithshinod553?theme=dark)
