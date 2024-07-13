@@ -1,4 +1,4 @@
-<h1 align="center">HEY THERE I'M ADWAITH SHINOD 👋</h1>
+<h1 align="center">HEY THERE I'M ADWAITH SHINOD </h1>
 <!-- <h3 align="center">A passionate WEB developer from India</h3> -->
 <p align="center"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adwaith-553&label=Profile%20views&color=0e75b6&style=flat" alt="adwaith-553" /> </p>
