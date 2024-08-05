@@ -19,4 +19,4 @@
 &emsp;
 &emsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ADWAITH-553&theme=dark&hide_border=true&border_radius=7.1)](https://git.io/streak-stats)
-![Leetcode Stats](https://leetcard.jacoblin.cool/adwaithshinod553?theme=dark)
+
